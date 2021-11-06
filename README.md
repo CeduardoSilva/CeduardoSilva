@@ -1,5 +1,6 @@
 ### Hi there 👋
-#I'm Carlos!
+I'm Carlos! <br>
+Feel free to contact me on LinkedIn!
 
 - 💻 Full Stack Software Engineer
 - <a href="https://www.linkedin.com/in/carlos-eduardo-da-silva-420411116/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
