@@ -18,10 +18,7 @@ Feel free to contact me on LinkedIn!
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
- 
- <img align="left"  width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeduardoSilva&layout=compact&theme=vision-friendly-dark" />
- <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=CeduardoSilva&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
-<!--
+ <!--
 **CeduardoSilva/CeduardoSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
